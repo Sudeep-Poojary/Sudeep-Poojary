@@ -44,6 +44,6 @@
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<p ><img align="right" src="https://github-readme-stats.vercel.app/api?username=sudeep-poojary&show_icons=true&locale=en" alt="sudeep-poojary" /></p>
+<p ><img align="left" src="https://github-readme-stats.vercel.app/api?username=sudeep-poojary&show_icons=true&locale=en" alt="sudeep-poojary" /></p>
 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=sudeep-poojary&" alt="sudeep-poojary" /></p>
+<p ><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sudeep-poojary&" alt="sudeep-poojary" /></p>
