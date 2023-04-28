@@ -17,12 +17,12 @@
 <br>
 
 
-<h2 align="center"> 🔗 Connect with me: </h2>
+<h2 align="center"> 🌐 Connect with me: </h2>
 <br>
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sudeep-poojary-3b5a7521b/)
-
+  
 </div>
 
 
