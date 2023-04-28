@@ -1,5 +1,5 @@
-<h1 align="center">Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
-, I'm Sudeep Poojary</h1>
+<h1 align="center">Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />, I'm Sudeep Poojary</h1>
+
 <br>
 
 <h2 align="center"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me: </h2>
@@ -18,17 +18,17 @@
 
 
 <h2 align="center"> 🌐 Connect with me: </h2>
-<br>
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sudeep-poojary-3b5a7521b/)
   
 </div>
 
+<br>
 
-<br>
-<h2 align="center"> 🛠 Languages and Tools: </h2>
-<br>
+
+<h2 align="center"> 💻 Languages and Tools: </h2>
 
 <div align="center">
   
@@ -37,12 +37,15 @@
 </div>
 
 <br>
+
+
 <h2 align="center"> 📊 GitHub Stats:</h2>
-<br>
 
 <div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=Sudeep-Poojary&icon=5&color=0)](https://visitcount.itsvg.in)
+  
+<br>
 
 ![](https://github-profile-trophy.vercel.app/?username=Sudeep-Poojary&theme=radical&no-frame=false&no-bg=false&margin-w=4)
   
@@ -54,10 +57,10 @@
 
 <p ><img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=sudeep-poojary&theme=radical" alt="sudeep-poojary" /></p>
 
+<br>
 
-<br>
+
 <h2 align="center"> 🔝 Top Contributed Repo:</h2>
-<br>
 
 <div align="center">
   
