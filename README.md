@@ -3,7 +3,6 @@
 <br>
 
 <h2 align="center"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me: </h2>
-<br>
 
 <h4 style="text-align: justify">A Third Year undergraduate student pursuing Bachelor of Engineering from Xaviers Institute of Engineering, Mumbai. I'm a passionate web developer with a strong foundation in HTML, CSS, and JavaScript. I have experience working with popular framework like React and I'm always excited to learn and work with new technologies. I'm also skilled in back-end development with Node.js and Express, as well as database management with MongoDB and MySQL. Still upskilling! and Thanks for stopping by!</h4> <br>
 
