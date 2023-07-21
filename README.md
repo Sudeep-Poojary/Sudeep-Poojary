@@ -10,7 +10,7 @@
 
 - 👋 Hi! I'm @Sudeep-Poojary
 - 👀 I'm interested in **Web Development✨**
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **DSA🌈**
 - 💬 Ask me about **JavaScript**
 - 📫 How to reach me **sudeeppoojary0320@gmail.com**
 
