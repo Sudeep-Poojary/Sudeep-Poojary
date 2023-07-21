@@ -8,10 +8,10 @@
 
 <p><img align="right" height="140" width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudeep-poojary&show_icons=true&locale=en&layout=compact&theme=algolia" alt="sudeep-poojary"/></p>
 
-- 🌱 I’m currently learning **Web Development**
-
+- 👋 Hi! I'm @Sudeep-Poojary
+- 👀 I'm interested in **Web Development✨**
+- 🌱 I’m currently learning **Data Structures and Algorithms🌈**
 - 💬 Ask me about **JavaScript**
-
 - 📫 How to reach me **sudeeppoojary0320@gmail.com**
 
 <br>
