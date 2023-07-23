@@ -9,8 +9,8 @@
 <p><img align="right" height="140" width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudeep-poojary&show_icons=true&locale=en&layout=compact&theme=algolia" alt="sudeep-poojary"/></p>
 
 - 👋 Hi! I'm @Sudeep-Poojary
-- 👀 I'm interested in **Web Development✨**
-- 🌱 I’m currently learning **DSA🌈**
+- 👀 I'm interested in **Web Development🎯**
+- 🌱 I’m currently learning **DSA✨**
 - 💬 Ask me about **JavaScript**
 - 📫 How to reach me **sudeeppoojary0320@gmail.com**
 
