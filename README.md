@@ -25,10 +25,7 @@
   </a>
 </div>
 
-###
-
 <br>
-
 
 <h2 align="center"> 💻 Languages and Tools: </h2>
 
@@ -128,8 +125,6 @@
  
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
 </div>
-
-###
 
 <br>
 
