@@ -4,14 +4,14 @@
 
 <h2 align="center"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me: </h2>
 
-<p style="text-align: justify">A Final Year undergraduate student pursuing Bachelor of Engineering in Information Technology from Xavier Institute of Engineering, Mumbai. I'm a passionate web developer with a strong foundation in HTML, CSS, and JavaScript. I have experience working with popular framework like React and I'm always excited to learn and work with new technologies. I also possess basic knowledge in back-end development with Node.js and Express, as well as database management with MongoDB and MySQL. Still upskilling! and Thanks for stopping by!</p> <br>
+<p style="text-align: justify">A driven and enthusiastic web developer with a passion for learning and building great websites. Recently completed my Engineering Degree in Information Technology from Xavier Institute of Engineering, Mumbai. With a strong foundation in HTML, CSS, and JavaScript. I have experience working with popular framework like React and I'm always excited to learn and work with new technologies. I also possess basic knowledge in back-end development with Node.js and Express, as well as database management with MongoDB and MySQL. Still upskilling! and Thanks for stopping by!</p> <br>
 
 <p><img align="right" height="150" width="460" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudeep-poojary&show_icons=true&locale=en&layout=compact&theme=algolia" alt="sudeep-poojary"/></p>
 
-- 👋 Hi! I'm @Sudeep-Poojary
+- 👋 Hi! I'm **@Sudeep-Poojary**
+- 💻 Software Engineer **@Safran**
 - 👀 I'm interested in **Web Development🕸️**
 - 🌱 I’m currently learning **DSA✨**
-- 💬 Ask me about **JavaScript**
 - 📫 How to reach me **sudeeppoojary0320@gmail.com**
 
 <br>
